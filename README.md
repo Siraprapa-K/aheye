@@ -17,7 +17,7 @@ money แสดงราคากาแฟมีหน่วยเป็น Ukra
 ไฟล์ชุดข้อมูล<br>
 3.folder code 	
 ไฟล์ ipynb ที่ทำการวิเคราะห์ข้อมูล<br>
-[panda_1.ipynb](/home/siraprapak/Documents/com tech (go lang)/panda_1.ipynb)<br>
 4.folder presentation 	
-ไฟล์ pdf ของพรีเซนท์เทชันที่ใช้นำเสนอ<br>
-5.กำหนดการส่งงานใน github ภายในวันที่ 11 ตค. เวลา 23.59 น.# aheye
+ไฟล์ pdf ของพรีเซนท์เทชันที่ใช้นำเสนอ
+ [Coffeesales.pptx](./presentation/Coffeesales.pptx)<br>
+5.กำหนดการส่งงานใน github ภายในวันที่ 11 ตค. เวลา 23.59 น.
